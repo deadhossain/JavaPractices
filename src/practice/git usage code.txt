@@ -1,0 +1,6 @@
+git init ---------- initialisation
+git remote add origin urllink ----------------- add git origin url
+git remote -v -------------- check git origin
+git add . --------- add all files in git
+git commit -m"Message" --------- add message wha you are commiting
+git push origin master ---------- add file to remote origin
