@@ -97,17 +97,26 @@ public class Practice {
     }
     
     public static void main(String[] args) {
+        
+        ToSmallest.smallest(261235);
+        ToSmallest.smallest(209917);
+        ToSmallest.smallest(285365);
+        ToSmallest.smallest(269045);
+        ToSmallest.smallest(296837);
+        
+        
+        
 //        PigLatin.pigIt("Pig latin is cool");
 //        long startTime = System.nanoTime();
 //        System.out.println(Arrays.toString(BuddyPairs.buddy(10,50))) ;
 //        long stopTime = System.nanoTime();
 //        System.out.println(stopTime - startTime);
 
-        SnakesLadders game = new SnakesLadders();
-        System.out.println(game.play(1, 1));
-        System.out.println(game.play(1, 5));
-        System.out.println(game.play(6, 2));
-        System.out.println(game.play(1, 1));
+//        SnakesLadders game = new SnakesLadders();
+//        System.out.println(game.play(1, 1));
+//        System.out.println(game.play(1, 5));
+//        System.out.println(game.play(6, 2));
+//        System.out.println(game.play(1, 1));
 
 
 //        System.out.println(game.play(1, 1));
